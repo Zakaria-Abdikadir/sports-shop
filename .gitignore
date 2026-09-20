@@ -1,0 +1,60 @@
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/*
+# Database files / backups
+database/*.sql
+database/*.sql.gz
+
+# Database backup / actual database
+database/*.sql
+database/*.sql.gz
+
+# Database credentials
+config/database.php
+
+# Logs
+logs/
+*.log
+
+# Generated uploads
+uploads/*
+
+# Database
+database/*.sql
+database/*.sql.gz
+config/database.php
+
+# Logs
+logs/
+
+# Uploads
+uploads/*
+
+# Database
+database/*.sql
+database/*.sql.gz
+
+# Database connection
+config/database.php
+
+# Logs
+logs/
+
+# Uploads
+uploads/*
